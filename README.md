@@ -112,9 +112,6 @@ return render(request,'myapp/math.html',context)
 ## OUTPUT:
 ![image](https://github.com/23002027/serversideprocessing/assets/139752981/0bcea446-1312-42b7-8aad-75cd9d59901e)
 
-
-### Home Page:
-
-
 ## Result:
+The program is executed successfully.
 
